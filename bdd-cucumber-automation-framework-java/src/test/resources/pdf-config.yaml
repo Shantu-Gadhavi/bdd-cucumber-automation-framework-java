@@ -1,0 +1,68 @@
+passColor: 05a167
+failColor: c20e29
+skipColor: ff9900
+displayFeature: true
+displayScenario: true
+displayDetailed: true
+displayAttached: false
+displayExpanded: true
+
+dashboardConfig:
+  title: Automation test result
+  dataBackgroundColor: FFFFFF
+  titleColor: 0066ff
+  dateColor: 9999ff
+  timeColor: 000000
+  dial:
+    featureRanges: 60 95
+    scenarioRanges: 70 90
+    stepRanges: 75 85
+    badColor: f02846
+    averageColor: ff66ff
+    goodColor: 32ecab
+
+summaryConfig:
+  totalColor: 404040
+  durationColor: FF0000
+
+tagConfig:
+  totalColor: 404040
+
+featureConfig:
+  totalColor: 404040
+  durationColor: FF0000
+
+scenarioConfig:
+  totalColor: 404040
+  durationColor: FF0000
+
+detailedFeatureConfig:
+  featureNameColor: 0000ff
+  startEndTimeColor: 000000
+  tagColor: FF0000
+  dataHeaderColor: FFFFFF
+  dataBackgroundColor: FFFFFF
+  totalColor: 0000FF
+  durationColor: FFFFFF
+  durationBackgroundColor: FFFFFF
+
+detailedScenarioConfig:
+  featureNameColor: FFFFFF
+  scenarioNameColor: 3399ff
+  startEndTimeColor: 000000
+  tagColor: FF0000
+  dataHeaderColor: FFFFFF
+  dataBackgroundColor: FFFFFF
+  totalColor: 0000FF
+  durationColor: FFFFFF
+  durationBackgroundColor: 404040
+  stepChartBarColor: 7f32a8
+
+detailedStepHookConfig:
+  stepTextColor: 0000FF
+  stepBackgroundColor: f2f2f2
+  hookTextColor: 00FF00
+  hookBackgroundColor: f2f2f2
+  durationColor: FF0000
+  errorMsgColor: 000000
+  logMsgColor: 000000
