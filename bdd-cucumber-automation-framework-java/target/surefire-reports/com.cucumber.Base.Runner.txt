@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.cucumber.Base.Runner
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 45.132 s - in com.cucumber.Base.Runner

@@ -1,9 +1,0 @@
-com\cucumber\Pages\CheckoutPage.class
-com\cucumber\Base\MainBase.class
-com\cucumber\StepDefs\SmokeStepDef.class
-com\cucumber\Pages\LoginPage.class
-com\cucumber\Base\GetterSetter.class
-com\cucumber\Pages\ProductsPage.class
-com\cucumber\Pages\CartPage.class
-com\cucumber\Base\Runner.class
-com\cucumber\Base\Hooks.class
